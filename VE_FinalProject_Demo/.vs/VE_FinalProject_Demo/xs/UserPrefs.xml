@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{32AE821F-37C4-306F-CAEE-D5C9893F09EE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Billboarding.cs">
+    <Files>
+      <File FileName="Assets/Billboarding.cs" Line="40" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VE_FinalProject_Demo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Billboarding.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f85f2169-3404-4dfc-b771-1b7d3c0e0e40" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
